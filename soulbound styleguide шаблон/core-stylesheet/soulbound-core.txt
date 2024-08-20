@@ -33,7 +33,7 @@
       background-image: url(https://github.com/Kirtanei/soulbound-styleguide/blob/main/graphics/logos/Soulbound-logo.png?raw=true);
       background-size: 550px 206px;
       width: 550px;
-      height: 206px;
+      height: 350px;
       top: 15px;
       left: 0;
       right: 0;
